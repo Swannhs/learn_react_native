@@ -1,6 +1,7 @@
 {
   "expo": {
     "name": "learn_react_native",
+    "description": "",
     "slug": "learn_react_native",
     "version": "1.0.0",
     "orientation": "portrait",
